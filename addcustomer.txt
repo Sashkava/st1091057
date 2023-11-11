@@ -1,0 +1,12 @@
+'Assignment 15
+'Aleksandr Vaksman
+'"Add New Customer" Automation test case
+
+
+
+
+AddCustomer "julia", "Roberts", "1100 Sunset blvd", "Hollywood", "CA", "98286"
+
+AddCustomer "", "Roberts", "1100 Sunset blvd", "Hollywood", "CA", "98286"
+
+AddCustomer "julia", "", "1100 Sunset blvd", "Hollywood", "CA", "98286"
